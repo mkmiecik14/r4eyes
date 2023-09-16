@@ -6,7 +6,7 @@ My optometrist recommended that every 20 minutes I look away from the computer s
 
 With this `.Rprofile` file, the reminders are automatic and print every 20 minutes to your console.
 
-https://github.com/mkmiecik14/r4eyes/blob/9d2c8626bda793174257a38ea5f0573cb89b3900/.Rprofile
+https://github.com/mkmiecik14/r4eyes/blob/16cf0626257e81aae74f8cf0802f3a9081e5930e/.Rprofile#L1-L24
 
 Happy programming in R!
 
